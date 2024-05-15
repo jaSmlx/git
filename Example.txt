@@ -3,3 +3,5 @@ change example
 Edited from GitHub
 
 Stash
+
+Edit from branch develop
